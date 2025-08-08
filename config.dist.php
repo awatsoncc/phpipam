@@ -8,9 +8,9 @@ $disable_installer = false;
 /**
  * database connection details
  ******************************/
-$db['host'] = '127.0.0.1';
+$db['host'] = '10.30.34.4';
 $db['user'] = 'phpipam';
-$db['pass'] = 'phpipamadmin';
+$db['pass'] = '!4Grunties!';
 $db['name'] = 'phpipam';
 $db['port'] = 3306;
 
